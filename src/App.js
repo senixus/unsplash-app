@@ -10,7 +10,6 @@ function App() {
       <Switch>
         <Route exact path="/" component={ImgGallery} />
         <Route path="/users/:username" component={UserInfo} />
-        <Route path="/users/:username/photos" component={UsersPhotos} />
       </Switch>
     </div>
   );
