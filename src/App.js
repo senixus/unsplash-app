@@ -2,7 +2,6 @@ import React from "react";
 import ImgGallery from "./components/img-gallery/ImgGallery";
 import { Switch, Route } from "react-router-dom";
 import UserInfo from "./components/user/UserInfo";
-import UsersPhotos from "./components/user/UsersPhotos";
 
 function App() {
   return (
