@@ -1,5 +1,13 @@
 # Getting Started
 
+# Technologies
+- Hooks
+- Redux
+- Redux thunk
+- React router
+- Unsplash API
+
+
 ## Unsplash API
 
 Get your Unsplash API [here](https://unsplash.com/developers)
